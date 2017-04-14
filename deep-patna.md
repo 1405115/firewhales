@@ -7,6 +7,7 @@
 -DAV
 
 ### visits
-
+-Zoo  
+-planetum
 
 ### hotels
