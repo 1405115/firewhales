@@ -11,3 +11,6 @@
 -planetum
 
 ### hotels
+-five star
+-three star
+-ashoka
